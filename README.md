@@ -5,7 +5,7 @@ Expect a less experimental config soon.
 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- First, Press Windows Key + R and type %localappdata%\Hawked\Saved\Config\ then press enter.
+- Press Windows Key + R and type %localappdata%\Hawked\Saved\Config\ then press enter.
   
 - Copy the folder "Windows" to and save a Backup somewhere memorable.
 - Leave your backups alone unless you seek to restore your previous settings. 
