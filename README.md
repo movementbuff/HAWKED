@@ -19,7 +19,9 @@ Expect a less experimental config soon.
 
 
 - Finally, Use RTSS to cap Frame Rate at 120, 125, 144, 165, 180, 200, etc or use the in-game Frame Limiter to prevent the framerate from spiking and dipping  (RTSS is strongly preferred. It is free and simple to use)
-I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights. I use 275 as my monitor is 280hz and I don't experience any (noticeable) frame drops with this cap. 
+I recommend testing each Frame Rate cap over several matches until you can decide on which is the most consistent during fights. I use 275 as my monitor is 280hz and I don't experience any (noticeable) frame drops with this cap.
+
+
 
 Currently using Back-edge Sync instead of ASYNC in RTSS.
 
